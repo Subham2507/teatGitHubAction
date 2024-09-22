@@ -1,6 +1,6 @@
- name: Python CI
+name: Python CI
 
-#Trigger the workflow on any push to the main branch or pull request
+# Trigger the workflow on any push to the main branch or pull request
 on:
   push:
     branches:
